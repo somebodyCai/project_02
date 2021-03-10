@@ -4,4 +4,5 @@
 #忽略 ccc文件夹
 /ccc/
 
-#测试
+#忽略 gitignore
+.gitignore
